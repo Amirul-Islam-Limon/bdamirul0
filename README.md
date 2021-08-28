@@ -2,12 +2,12 @@
 <h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
 - 👨‍💻 My portfolio website [https://amirul-islam.netlify.app](https://amirul-islam.netlify.app)
-<!-- - 📝 I write articles on [https://medium.com/](https://medium.com/) -->
-<!-- - 💻 I'm an undergraduate majoring in Computer Science  -->
 - 🌱 I’m currently learning JavaScript, React,Redux
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Web Development with ReactJs , Redux and NodeJs
 - ⚡ Fun fact: I love coding and reading books
+<!-- - 📝 I write articles on [https://medium.com/](https://medium.com/) -->
+<!-- - 💻 I'm an undergraduate majoring in Computer Science  -->
 - 📫 Reach me at **bdamirul0@gmail.com**
 
 ### Connect with me:
