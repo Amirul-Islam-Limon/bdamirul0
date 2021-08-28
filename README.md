@@ -6,9 +6,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Web Development with ReactJs , Redux and NodeJs
 - ⚡ Fun fact: I love coding and reading books
+- 📫 Reach me at **bdamirul0@gmail.com**
 <!-- - 📝 I write articles on [https://medium.com/](https://medium.com/) -->
 <!-- - 💻 I'm an undergraduate majoring in Computer Science  -->
-- 📫 Reach me at **bdamirul0@gmail.com**
+
 
 ### Connect with me:
 [<img align="left" alt="proarif.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://amirul-islam.netlify.app/)
