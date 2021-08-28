@@ -33,7 +33,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://www.javascript.com)
 [<img align="left" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />](https://reactjs.org)
 [<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />](https://material-ui.com)
-[<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://semantic-ui.com)
+<!-- [<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://semantic-ui.com) -->
 <!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />](https://proarif.com) -->
 <!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />](https://proarif.com) -->
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
