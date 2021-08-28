@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amirul Islam Limon</h1>
 <h3 align="center">A curious and passionate Front-End Developer and Javascript Enthusiast!</h3>
 
-- 👨‍💻 My portfolio website [https://amirul-islam.netlify.app/](https://amirul-islam.netlify.app/)
+- 👨‍💻 My portfolio website [https://amirul-islam.netlify.app](https://amirul-islam.netlify.app)
 <!-- - 📝 I write articles on [https://medium.com/](https://medium.com/) -->
 <!-- - 💻 I'm an undergraduate majoring in Computer Science  -->
-- 🌱 I’m currently learning JavaScript, React
+- 🌱 I’m currently learning JavaScript, React,Redux
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Web Development with ReactJs and NodeJs
-- ⚡ Fun fact: I love coding and watch movies
+- 🥅 2021 Goals: Web Development with ReactJs , Redux and NodeJs
+- ⚡ Fun fact: I love coding and reading books
 - 📫 Reach me at **bdamirul0@gmail.com**
 
 ### Connect with me:
@@ -45,7 +45,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://git-scm.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com)
 <!-- [<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](gitlab.com) -->
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://iterm2.com)
+<!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://iterm2.com) -->
 <!-- [<img align="left" alt="Bitbucket" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1246" />](https://bitbucket.org) -->
 <!-- [<img align="left" alt="Trello" width="40px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com) -->
 <!-- [<img align="left" alt="jira" width="50px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com) -->
@@ -71,11 +71,11 @@
 <!-- 
 <details>
   <summary>GitHub History</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro&" alt="arifpro" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdamirul0&" alt="bdamirul0" /></p>
 </details>
 </div>
 -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifpro&" alt="arifpro" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdamirul0&" alt="bdamirul0" /> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/arifpro) -->
 
@@ -83,7 +83,7 @@
 
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
+  <img align="center" alt="amirul-islam.netlify.app" width="40%" src="https://profile-counter.glitch.me/arifpro/count.svg" />
 </p>
 
 
